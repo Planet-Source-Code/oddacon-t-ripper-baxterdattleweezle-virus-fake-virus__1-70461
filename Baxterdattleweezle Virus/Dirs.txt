@@ -1,0 +1,7 @@
+c:\windows\inf
+c:\windows\system
+c:\windows\temp
+c:\windows\command
+c:\windows\cookies
+c:\windows\media
+c:\windows\web
